@@ -6,6 +6,6 @@
     <title>Ejemplo 2</title>
 </head>
 <body>
-    <h1>Hola Broooo</h1>
+    <h1>Hola Josue</h1>
 </body>
 </html>
